@@ -1,0 +1,4 @@
+Melhorias:
+
+1. Adicionar interface
+2. Permitir concluir tarefas
