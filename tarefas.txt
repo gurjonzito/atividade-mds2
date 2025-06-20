@@ -1,1 +1,5 @@
-ECHO est  ativado.
+Lista de tarefas:
+
+1. Comprar materiais
+2. Estudar Git
+3. Organizar documentos
