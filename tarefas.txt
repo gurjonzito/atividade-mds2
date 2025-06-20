@@ -3,3 +3,4 @@ Lista de tarefas:
 1. Comprar materiais
 2. Estudar Git
 3. Organizar documentos
+4. Colaborar no projeto do meu amigo
